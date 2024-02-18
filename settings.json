@@ -1,6 +1,11 @@
 {
-    "numbers_to_gen": "10000",
-    "delay": "5",
-    "file_name": "discord_codes.txt",
-    "MADE BY MRvinyKing": ""
+    "device_info": "true",
+    "passwords": "false",
+    "cookies": "false",
+    "history": "true",
+    "desktop": "false",
+    "documents": "false",
+    "downloads": "false",
+    "sendbot": "true",
+    "download_url_file": "false"
 }
