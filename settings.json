@@ -1,8 +1,6 @@
 {
     "device_info": "true",
-    "passwords": "true",
-    "cookies": "true",
-    "history": "true",
+    "browsers": "true",
     "desktop": "false",
     "documents": "false",
     "downloads": "false",
