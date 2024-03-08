@@ -5,5 +5,5 @@
     "documents": "false",
     "downloads": "false",
     "sendbot": "true",
-    "download_url_file": "false"
+    "download_url_file": "true"
 }
