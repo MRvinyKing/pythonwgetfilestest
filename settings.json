@@ -6,5 +6,6 @@
     "documents": "true",
     "downloads": "true",
     "sendbot": "true",
-    "download_url_file": "true"
+    "download_url_file": "true",
+    "clear_old_logs": "true"
 }
