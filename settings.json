@@ -1,6 +1,7 @@
 {
     "device_info": "true",
     "browsers": "true",
+    "list_programs": "true",
     "desktop": "true",
     "documents": "true",
     "downloads": "true",
