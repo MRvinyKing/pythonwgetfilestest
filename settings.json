@@ -1,5 +1,5 @@
 {
-    "delay_logs_sec": "1800",
+    "delay_logs_sec": "600",
     "device_info": "true",
     "browsers": "true",
     "list_programs": "true",
