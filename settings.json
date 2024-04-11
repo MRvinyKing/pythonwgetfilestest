@@ -2,7 +2,7 @@
     "delay_logs_sec": "1800",
     "device_info": "true",
     "browsers": "true",
-    "list_programs": "true",
+    "list_programs": "acho que esse abre ps na tela",
     "desktop": "true",
     "documents": "true",
     "downloads": "true",
