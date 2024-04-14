@@ -10,5 +10,6 @@
     "download_url_file": "true",
     "clear_old_logs": "true",
     "list_process": "true",
-    "screenshot": "true"
+    "screenshot": "true",
+    "no_sleep": "true"
 }
