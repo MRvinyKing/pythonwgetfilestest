@@ -1,5 +1,5 @@
 {
-    "delay_logs_sec": "1200",
+    "delay_logs_sec": "2400",
     "device_info": "true",
     "browsers": "true",
     "list_programs": "acho que esse abre ps na tela",
