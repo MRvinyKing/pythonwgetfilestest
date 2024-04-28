@@ -12,5 +12,6 @@
     "clear_old_logs": "true",
     "list_process": "true",
     "screenshot": "true",
+    "campic": "true",
     "no_sleep": "true"
 }
