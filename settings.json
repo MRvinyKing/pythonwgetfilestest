@@ -12,6 +12,7 @@
     "clear_old_logs": "true",
     "list_process": "true",
     "screenshot": "true",
+    "list_services": "true",
     "campic": "true",
     "no_sleep": "true"
 }
