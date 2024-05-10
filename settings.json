@@ -6,7 +6,7 @@
     "list_programs": "acho que esse abre ps na tela",
     "desktop": "off",
     "documents": "off",
-    "downloads": "true",
+    "downloads": "off",
     "sendbot": "true",
     "download_url_file": "true",
     "clear_old_logs": "true",
